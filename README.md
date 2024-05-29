@@ -27,19 +27,3 @@ GifMaker-OpenCV is a simple command-line tool developed in C language using the 
 ./GifMaker-OpenCV [options]
 ```
 Replace `[options]` with the desired parameters such as input directory, output filename, frame rate, etc. Refer to the command-line options section for more details.
-
-
-**Contributing:**
-Contributions to GifMaker-OpenCV are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
-**License:**
-GifMaker-OpenCV is licensed under the MIT License. See the LICENSE file for more details.
-
-**Disclaimer:**
-This software is provided as-is without any warranty. Use at your own risk.
-
-**Author:**
-[Your Name/Contact Information]
-
-**Acknowledgements:**
-This project was inspired by the need for a simple GIF creation tool and utilizes the powerful capabilities of the OpenCV library. Special thanks to the developers and contributors of OpenCV for their excellent work.
